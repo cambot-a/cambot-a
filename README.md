@@ -5,8 +5,8 @@
 <div align="center">
   <img height="75" src="https://github.com/user-attachments/assets/723ae451-2751-429c-8f28-5022ec92fd7c"/>
 
-  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=a-cambot&theme=jolly&hide_border=true)<br/>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=a-cambot&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=cambot-a&theme=jolly&hide_border=true)<br/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cambot-a&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=a-cambot&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=cambot-a&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <img height="40" src="https://github.com/user-attachments/assets/48c03d8c-9860-4284-8e55-f1b184750de5"/>
