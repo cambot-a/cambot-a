@@ -4,9 +4,7 @@
 
 <div align="center">
   <img height="75" src="https://github.com/user-attachments/assets/723ae451-2751-429c-8f28-5022ec92fd7c"/>
-
-  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=cambot-a&theme=jolly&hide_border=true)<br/>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cambot-a&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  [![My GitHub stats](https://github-stats-extended.vercel.app/api?username=cambot-a)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 <div align="center">
