@@ -2,10 +2,13 @@
   <img width="1358" height="448" alt="image" src="https://github.com/user-attachments/assets/a7e0a3ff-96fd-498b-9e70-5014989588bb" />
 </div>
 
-<div align="center">
-  <img height="75" src="https://github.com/user-attachments/assets/723ae451-2751-429c-8f28-5022ec92fd7c"/>
-  [![My GitHub stats](https://github-stats-extended.vercel.app/api?username=cambot-a)](https://github.com/stats-organization/github-stats-extended)
-</div>
+___
+
+<img height="75" src="https://github.com/user-attachments/assets/723ae451-2751-429c-8f28-5022ec92fd7c"/>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=cambot-a&langs_count=4&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=cambot-a&langs_count=4&theme=ambient_gradient)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=cambot-a&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=cambot-a&include_all_commits=true&theme=ambient_gradient)
 
 <div align="center">
   <img height="75" src="https://github.com/user-attachments/assets/b04273c4-978a-4fe8-b466-a431d339b900"/>
