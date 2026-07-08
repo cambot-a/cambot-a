@@ -50,6 +50,8 @@ ___
 </div>
 
 
+<img width="66" height="29" alt="image" src="https://github.com/user-attachments/assets/7b055af0-89f0-41d5-a175-a1dcd69ef353" />
+
 ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
